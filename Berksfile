@@ -8,4 +8,4 @@ cookbook 'openssl', git: "https://github.com/opscode-cookbooks/openssl.git", ref
 cookbook "minitest-handler"
 cookbook 'apt', git: "https://github.com/opscode-cookbooks/apt.git"
 cookbook 'java', git: "https://github.com/opscode-cookbooks/java.git", ref: "c076f8c6a352bf4e503d69c79a208de4574a633d"
-cookbook "selenium", git: "https://github.com/dmakhno/cookbook-qubell-selenium.git", ref: meta11
+cookbook "selenium", git: "https://github.com/dmakhno/cookbook-qubell-selenium.git", ref: "meta11"
